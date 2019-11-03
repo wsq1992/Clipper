@@ -1,2 +1,2 @@
 # Clipper
-It's a saver of my clipped web pages.
+我将我剪藏的网页存在这个仓库的 issues 中，应该会存有原作者的署名之类，偶尔会进行一下整理。
